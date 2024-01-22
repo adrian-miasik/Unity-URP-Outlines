@@ -1,3 +1,5 @@
+## Forked project to upgrade to Unity v2023.2.0f1
+
 # Outlines
 A custom renderer feature for screen space outlines based on [Erik Roystan Ross Outline Shader](https://roystan.net/articles/outline-shader.html).
 

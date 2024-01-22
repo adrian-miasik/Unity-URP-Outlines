@@ -1,4 +1,4 @@
-## Forked project to upgrade to Unity v2023.2.0f1
+## Project was forked to try to fix it in Unity v2023.2.0f1 / URP 16
 
 # Outlines
 A custom renderer feature for screen space outlines based on [Erik Roystan Ross Outline Shader](https://roystan.net/articles/outline-shader.html).
